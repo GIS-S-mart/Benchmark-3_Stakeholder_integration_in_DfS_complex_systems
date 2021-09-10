@@ -6,16 +6,15 @@ The main goal of this benchmark is to suggest some case studies developed during
 ## Glossary
 
 To share a common undestanding of ambiguous concepts, contributors shall agree upon the following definitions:
-- Sustainability: 
+- Sustainability: strong sustainability (Neumayer, 2007)
 - Socio-technical systems: 
 - 
 
 ## Requirements
 
 Specify the requirements that the candidate solutions are intended to meet:
-- The solution shall enable to...
-- The solution shall enable to...
-- The solution shall enable to...
+- The solution shall enable stakeholders to improve their understanding of sustainability.
+- The solution shall enable stakeholders to improve their ability to transform their organizations.
 
 ## Measures of Performance
 - KPI X = définition
