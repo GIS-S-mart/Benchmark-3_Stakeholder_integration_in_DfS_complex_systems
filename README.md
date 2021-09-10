@@ -1,13 +1,14 @@
 # Benchmark 3. "Case studies to increase knowledge on sustainability"
 
-This is a template that details the content of a benchmark
+This benchmark is under construction. So not all the sections are completed.
+The main goal of this benchmark is to suggest some case studies developed during research projects. All the goals of the studies conducted were to improve the knowledge on sustainability.
 
 ## Glossary
 
 To share a common undestanding of ambiguous concepts, contributors shall agree upon the following definitions:
-- Concept1: Definition 1. 
-- Concept2: Definition 2.
-- ... 
+- Sustainability: 
+- Socio-technical systems: 
+- 
 
 ## Requirements
 
